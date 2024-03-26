@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React<br>🌱 I’m currently learning React Native<br>💬 Ask me about MERN<br>📫 How to reach me - hvsingh5732@gmail.com
+🔭 I’m currently working on Front-end Projects<br>🌱 I’m currently learning React<br>💬 Ask me about MERN<br>📫 How to reach me - hvsingh5732@gmail.com
 
 
 ## 🌐 Socials:
